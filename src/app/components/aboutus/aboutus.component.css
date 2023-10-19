@@ -1,0 +1,70 @@
+/* About section styles */
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+/* Welcome section styles */
+.welcome {
+  background-color: #f5f5f5;
+  padding: 2rem 0;
+}
+
+/* Container styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* Main heading styles */
+h1 {
+  font-size: 36px;
+  color: #af3131;
+  margin: 0 0 1.5rem;
+}
+
+/* Subheadings styles */
+h3 {
+  font-size: 28px;
+  color: #af3131;
+  margin: 2rem 0 1rem;
+}
+
+/* Paragraph styles for the content */
+p {
+  font-size: 18px;
+  color: #333;
+  margin: 0 0 1.5rem;
+}
+
+/* List item styles */
+ul {
+  font-size: 18px;
+  color: #333;
+  list-style: disc;
+  padding-left: 20px;
+  margin: 0 0 1.5rem;
+}
+
+/* Image container styles */
+.welcome-right-top {
+  text-align: center;
+}
+
+/* Image styles */
+img.img-fluid {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow to images */
+  margin: 1rem 0;
+}
+
+/* Left-aligned content styles */
+.welcome-left {
+  text-align: left;
+  padding: 1rem 0;
+}
